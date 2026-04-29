@@ -27,7 +27,7 @@ class App
         self::$console->println("                    +---------------___[}-_===_.'____                 /\\");
         self::$console->println("                ____`-' ||___-{]_| _[}-  |     |_[___\\==--            \\/   _");
         self::$console->println(" __..._____--==/___]_|__|_____________________________[___\\==--____,------' .7");
-        self::$console->println("|                        Welcome to Battleship                         BB-61/");
+        self::$console->println("|                        Welcome to Battleship - Daniel                        BB-61/");
         self::$console->println(" \\_________________________________________________________________________|");
         self::$console->println();
         self::$console->resetForegroundColor();
